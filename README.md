@@ -7,7 +7,7 @@ This Excel-based retail analysis examines Vrinda Clothing Store’s sales data t
 
 
 
-1. **Introduction**
+**1. Introduction**
 
    Objective of the Project 
 
